@@ -1,0 +1,9 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="Diff.ApplyRightSide" />
+  <action id="MethodUp" />
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+</keymap>
