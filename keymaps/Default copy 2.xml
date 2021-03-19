@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
@@ -26,6 +27,11 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="GotoRelated" />
+  <action id="List-selectFirstRow" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
